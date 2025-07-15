@@ -7,7 +7,6 @@ android {
         minSdkVersion 23
         targetSdkVersion 33
     }
-
     buildTypes {
         release {
             minifyEnabled false
